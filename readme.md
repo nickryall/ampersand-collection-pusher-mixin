@@ -1,6 +1,6 @@
 # ampersand-collection-pusher-mixin
 
-backbone-live ( https://github.com/bluedevil2k/backbone-live ) adapted for Ampersand Use.
+backbone-live ( https://github.com/bluedevil2k/backbone-live ) adapted for Ampersand.
 
 
 <!-- starthide -->
